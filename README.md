@@ -1,4 +1,8 @@
-# python-pong-game
+# Python-pong-game
+<p align="center">
+  <img src="media/preview.gif" alt="Gameplay preview" width="600"/>
+</p>
+
 Pong arcade game recreated with Python Turtle — part of my 100 Days of Code
 
 ## 🎮 Controls
